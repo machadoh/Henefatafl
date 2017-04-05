@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestGameLogic" tests="45" skipped="0" failures="0" errors="0" timestamp="2017-04-03T16:55:42" hostname="lw2-wireless-pittnet-43-155.wireless.pitt.edu" time="61.963">
+  <properties/>
+  <testcase name="testSetPathFalse" classname="TestGameLogic" time="0.0"/>
+  <testcase name="testSetKingdomTurn" classname="TestGameLogic" time="1.003"/>
+  <testcase name="testAvailableMovesMovableKingdomUnit" classname="TestGameLogic" time="0.851"/>
+  <testcase name="testShieldBottomHOverK" classname="TestGameLogic" time="0.977"/>
+  <testcase name="testSearchForEdgeInvalid" classname="TestGameLogic" time="0.881"/>
+  <testcase name="testLocationsOfAdjacentEnemies" classname="TestGameLogic" time="1.019"/>
+  <testcase name="topLeftCornerMovable" classname="TestGameLogic" time="0.905"/>
+  <testcase name="startHoardMovable" classname="TestGameLogic" time="2.773"/>
+  <testcase name="testValidExitFort" classname="TestGameLogic" time="0.722"/>
+  <testcase name="testShieldRightKingOverHoard" classname="TestGameLogic" time="0.759"/>
+  <testcase name="testHoardMovable" classname="TestGameLogic" time="1.617"/>
+  <testcase name="testHoardCaptured" classname="TestGameLogic" time="1.754"/>
+  <testcase name="bottomLeftCornerMovable" classname="TestGameLogic" time="1.117"/>
+  <testcase name="testHoardNotMovable" classname="TestGameLogic" time="1.138"/>
+  <testcase name="testGetGameOver" classname="TestGameLogic" time="0.958"/>
+  <testcase name="testCapturedHoardUnit" classname="TestGameLogic" time="1.258"/>
+  <testcase name="testGetGameOverInvalid" classname="TestGameLogic" time="1.519"/>
+  <testcase name="testIsPieceMovableSurroundedUnit" classname="TestGameLogic" time="1.796"/>
+  <testcase name="testCloseToOneEdge" classname="TestGameLogic" time="1.39"/>
+  <testcase name="RandomTileMovable" classname="TestGameLogic" time="1.11"/>
+  <testcase name="testHistory" classname="TestGameLogic" time="1.508"/>
+  <testcase name="testKingCaptured" classname="TestGameLogic" time="1.227"/>
+  <testcase name="testInvalidExitFort" classname="TestGameLogic" time="1.214"/>
+  <testcase name="testCapturedWizard" classname="TestGameLogic" time="1.142"/>
+  <testcase name="startKnightMovable" classname="TestGameLogic" time="1.024"/>
+  <testcase name="testCloseToZeroEdges" classname="TestGameLogic" time="1.59"/>
+  <testcase name="testKingNotCaptured" classname="TestGameLogic" time="1.395"/>
+  <testcase name="testAvailableMoves" classname="TestGameLogic" time="1.155"/>
+  <testcase name="topRightCornerMovable" classname="TestGameLogic" time="0.778"/>
+  <testcase name="testCapturedKingdomSoldier" classname="TestGameLogic" time="0.977"/>
+  <testcase name="testAdjacentLocationsBottomLeftHoard" classname="TestGameLogic" time="4.553"/>
+  <testcase name="testAdjacentLocationsTopRightKingdom" classname="TestGameLogic" time="0.913"/>
+  <testcase name="testSoldierNotMovable" classname="TestGameLogic" time="0.74"/>
+  <testcase name="testIsPieceMovableValid" classname="TestGameLogic" time="1.501"/>
+  <testcase name="startKingMovable" classname="TestGameLogic" time="1.497"/>
+  <testcase name="testSoldierCaptured" classname="TestGameLogic" time="1.737"/>
+  <testcase name="testSearchForEdgeValid" classname="TestGameLogic" time="1.348"/>
+  <testcase name="bottomRightCornerMovable" classname="TestGameLogic" time="1.395"/>
+  <testcase name="testGetGameOverValid" classname="TestGameLogic" time="1.527"/>
+  <testcase name="testIsPieceMovableEnemyUnit" classname="TestGameLogic" time="3.37"/>
+  <testcase name="testIsKingdomTurn" classname="TestGameLogic" time="4.754"/>
+  <testcase name="testIsKingdomturn" classname="TestGameLogic" time="1.241"/>
+  <testcase name="testCanBeMovedTo" classname="TestGameLogic" time="0.052"/>
+  <testcase name="testCloseToTwoEdges" classname="TestGameLogic" time="0.83"/>
+  <testcase name="testAvailableMovesMovableHoardUnit" classname="TestGameLogic" time="0.936"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestTile" tests="10" skipped="0" failures="0" errors="0" timestamp="2017-04-03T16:56:44" hostname="lw2-wireless-pittnet-43-155.wireless.pitt.edu" time="0.252">
+  <properties/>
+  <testcase name="testIsKingdomUnit1" classname="TestTile" time="0.059"/>
+  <testcase name="testIsKingdomUnit2" classname="TestTile" time="0.001"/>
+  <testcase name="testIsKingdomUnit3" classname="TestTile" time="0.052"/>
+  <testcase name="testGetX" classname="TestTile" time="0.002"/>
+  <testcase name="testGetY" classname="TestTile" time="0.001"/>
+  <testcase name="testSetX" classname="TestTile" time="0.002"/>
+  <testcase name="testSetY" classname="TestTile" time="0.048"/>
+  <testcase name="testToString" classname="TestTile" time="0.039"/>
+  <testcase name="testGetType" classname="TestTile" time="0.002"/>
+  <testcase name="testSetType" classname="TestTile" time="0.043"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

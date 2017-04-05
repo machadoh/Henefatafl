@@ -1,0 +1,4 @@
+Miscellaneous information about the game
+---------------------------------------------------
+
+Structure of moves: [FROM_X] [FROM_Y] [TO_X] [TO_Y]
